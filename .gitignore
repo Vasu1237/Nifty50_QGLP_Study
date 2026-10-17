@@ -1,0 +1,6 @@
+﻿raw/
+clean/
+logs/
+manual_input/
+*.parquet
+__pycache__/
